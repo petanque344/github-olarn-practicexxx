@@ -1,7 +1,7 @@
 # Collaborators
 
 ## Owner
-- Full Name: YOUR REAL NAME
+- Full Name: Nitid Thungtong
 
 ## Collaborator (Simulated)
 - GitHub Actions Bot
